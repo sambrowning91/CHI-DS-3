@@ -1,37 +1,69 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science 2.0
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS-SF-23](https://github.com/ga-students/DS-CHI-3)
 
-Welcome to Data Science 2.0! We are building a global community of lifelong learners who are excited about using data to solve real world problems. 
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/chicago) in Chicago (6/21/16 - 8/25/16)
 
-In this 10 week part-time course, students will use Python (v2.7) to explore datasets, build predictive models, and communicate data driven insights. Specifically, students will:
-- Learn the language of data scientists to contribute as a part of a greater team.
-- Perform exploratory data analysis with powerful programmatic tools, python, and the command line.
-- Build and refine basic machine learning models to predict patterns from data sets.
-- Communicate data driven insights to a non-technical audience through visual storytelling.
+## Exit Ticket
+
+[Fill me out at the end of each class!](http://goo.gl/forms/xOAOHBN4XUAI2EU83)
+
+## Schedule
+
+| Week | Date | Class | Due |
+|:---:|:---:|:---|:---|
+| 0 | | [Onboarding](./onboarding) | |
+| | | **Unit 1 - Research Design and Exploratory Data Analysis** |
+| 1 | 6/21 | [What is Data Science](./classes/01) | |
+| 1 | 6/23 | [Research Design and _pandas_](./classes/02) | |
+| 2 | 6/28 | [Descriptive Statistics for Exploratory Data Analysis](./classes/03) | **[Unit Project 1](./unit-projects/1) due** |
+| 2 | 6/30 | [Inferential Statistics for Model Fit](./classes/05) | **[Unit Project 2](./unit-projects/2) due** |
+| 3 | 7/5 | [Flexible Class Session: Exploratory Data Analysis](./classes/04) | |
+| | | **Unit 2 - Foundations of Data Modeling** | |
+| 3 | 7/7 | [Introduction to Regression and Model Fit](./classes/06) | **[Final Project 1](./final-project/1) due** |
+| 4 | 7/12 | [Introduction to Regression and Model Fit, Part 2](./classes/07) | |
+| 4 | 7/14 | [Introduction to Classification](./classes/08) | |
+| 5 | 7/19 | [Introduction to Logistic Regression](./classes/09) | **[Final Project 2](./final-project/2) due** |
+| 5 | 7/21 | [Advanced Metrics and Communicating Results](./classes/10) | **[Unit Project 3](./unit-projects/3) due** |
+| 6 | 7/26 | [Flexible Class Session](./classes/11) | |
+| | | **Unit 3 - Data Science in the Real World** | |
+| 6 | 7/28 | [Decision Trees and Random Forests](./classes/12) | **[Final Project 3](./final-project/3) due** |
+| 7 | 8/2 | Natural Language Processing and Text Classification | |
+| 7 | 8/4 | Latent Variables and Natural Language Processing | **[Unit Project 4](./unit-projects/4) due** |
+| 8 | 8/9 | Time Series Data | |
+| 8 | 8/11 | Time Series Data, Part 2 | |
+| 9 | 8/16 | Introduction to Databases | **[Final Project 4](./final-project/4) due** |
+| 9 | 8/18 | Wrapping Up and Next Steps | |
+| 10 | 8/23 | Final Project Presentations | **[Final Project 5](./final-project/5) due** |
+| 10 | 8/25 | Final Project Presentations, Part 2 | |
+
+(Syllabus last updated on 5/5/2016)
+
+(Flexible class sessions will be finalized after feedback is received from students)
+
+## Your Team
+
+**Instructor:** [Ivan Hernandez](mailto:ivan@ivanhernandez.com)
 
 
-## Data Science Curriculum Repo
+## Office Hours
 
-Included in this Repository:
-
-1. [**Lessons**](./lessons/) - lesson plans and corresponding assets, including starter & solution code, datasets, & slide decks.
-2. [**Projects**](./projects/) - instructions and materials for both UNIT and FINAL projects, including starter code, rubrics, and datasets.
-3. [**Resources**](./resources/) - various supplementary instructor and student facing resources, including syllabus & prework.
-4. [**Templates**](./templates/) - GA campus educational styleguides with templates and examples for lessons and projects.
+- Wednesdays, 6:00 to 7:30PM at GA (Please Schedule Ahead via E-mail)
 
 
-## To Get Started
-1. **Producers**: Review the [github instructions with your instructional team](./resources/instructor-resources/github-repo-instance-guide.md).
-2. **Instructors**: Review these [resources](./resources/readme.md) and ["getting started" guide](./resources/instructor-resources/instructor-prep.md).
-3. **Students**: Read through our [installation guide](/resources/instructor-resources/tech-guide.md) and [prework](https://gist.github.com/jessicaGA/0c7215de7f75e16f7899) to start learning data science!
+## Unit Projects
 
----
+| Unit Project | Description | Goal | Due |
+|:---:|:---|:---|:---:|:---: |
+| [1](./unit-projects/1) | Research Design Write-Up | Create a problem statement, analysis plan, and data dictionary in iPython | 6/30 6:00PM Central |
+| [2](./unit-projects/2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | 7/7 6:0PM Central |
+| [3](./unit-projects/3) | Basic Modeling Assignment | Perform logistic regressions, creating dummy variables, and calculating probabilities | 7/21 6:30PM Central |
+| [4](./unit-projects/4) | Notebook with Executive Summary | Present your findings in an iPython notebook with executive summary, visuals, and recommendations | 7/28 6:00PM Central |
 
-#### ⑃ Forking and Collaborating
+## Final Project
 
-The structure of this repository provides a way for us to organize our information and use the same vocabulary.
-
-Some cities maintain forks of this repository for collaboration by their local instructors. However, we also encourage the teaching team for each cohort to fork this repository directly, and use it to store your new and improved resources. By the end of the course, we hope you'll have some things to submit to make our curriculum better.
-
-If you have any questions about the organization of resources, or about the scope of the DS curriculum, feel free to open an issue. Please check out our [contributing guidelines](contributing.md) for more details.
-
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+| Final Project, Part | Description | Goal | Due |
+|:---:|:---|:---|:---:|:---:|
+| [1](./final-project/1) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | 7/14 6:00PM Central |
+| [2](./final-project/2) | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 8/4 6:00PM Central |
+| [3](./final-project/3) | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 8/11 6:00PM Central |
+| [4](./final-project/4) | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 8/18 6:00PM Central |
+| [5](./final-project/5) | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 8/25 6:00PM Central |
