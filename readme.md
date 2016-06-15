@@ -35,8 +35,6 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 10 | 8/23 | Final Project Presentations | **[Final Project 5](./final-project/5) due** |
 | 10 | 8/25 | Final Project Presentations, Part 2 | |
 
-(Syllabus last updated on 5/5/2016)
-
 (Flexible class sessions will be finalized after feedback is received from students)
 
 ## Your Team
