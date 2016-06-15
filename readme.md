@@ -54,8 +54,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Unit Project | Description | Goal | Due |
 |:---:|:---|:---|:---:|:---: |
 | [1](./unit-projects/1) | Research Design Write-Up | Create a problem statement, analysis plan, and data dictionary in iPython | 6/30 6:00PM Central |
-| [2](./unit-projects/2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | 7/7 6:0PM Central |
-| [3](./unit-projects/3) | Basic Modeling Assignment | Perform logistic regressions, creating dummy variables, and calculating probabilities | 7/21 6:30PM Central |
+| [2](./unit-projects/2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | 7/7 6:00PM Central |
+| [3](./unit-projects/3) | Basic Modeling Assignment | Perform logistic regressions, creating dummy variables, and calculating probabilities | 7/21 6:00PM Central |
 | [4](./unit-projects/4) | Notebook with Executive Summary | Present your findings in an iPython notebook with executive summary, visuals, and recommendations | 7/28 6:00PM Central |
 
 ## Final Project
