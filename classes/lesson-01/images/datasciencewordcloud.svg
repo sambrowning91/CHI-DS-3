@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="960"
+   height="600"
+   version="1.1"
+   id="svg3336"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="datasciencewordcloud.svg"
+   inkscape:export-filename="C:\Users\Ivan\Documents\GitHub\CHI-DS-3\classes\lesson-01\images\datasciencewordcloud.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3464">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3462" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     id="namedview3460"
+     showgrid="false"
+     inkscape:zoom="1.3483333"
+     inkscape:cx="480"
+     inkscape:cy="300"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3340" />
+  <g
+     id="g3338" />
+  <g
+     transform="translate(480,300)scale(1,1)"
+     id="g3340">
+    <text
+       text-anchor="middle"
+       transform="translate(-68,-106)"
+       style="font-size: 100px; font-family: Impact; fill: rgb(107, 110, 207);"
+       id="text3342">scientist</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-212,61)"
+       style="font-size: 86px; font-family: Impact; fill: rgb(156, 158, 222);"
+       id="text3344">statistic</text>
+    <text
+       text-anchor="middle"
+       transform="translate(40,-188)"
+       style="font-size: 80px; font-family: Impact; fill: rgb(99, 121, 57);"
+       id="text3346">people</text>
+    <text
+       text-anchor="middle"
+       transform="translate(77,71)"
+       style="font-size: 75px; font-family: Impact; fill: rgb(140, 162, 82);"
+       id="text3348">social</text>
+    <text
+       text-anchor="middle"
+       transform="translate(162,-69)"
+       style="font-size: 70px; font-family: Impact; fill: rgb(181, 207, 107);"
+       id="text3350">job</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-113,171)"
+       style="font-size: 68px; font-family: Impact; fill: rgb(206, 219, 156);"
+       id="text3352">industry</text>
+    <text
+       text-anchor="middle"
+       transform="translate(206,-127)"
+       style="font-size: 68px; font-family: Impact; fill: rgb(140, 109, 49);"
+       id="text3354">field</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-205,-9)"
+       style="font-size: 68px; font-family: Impact; fill: rgb(189, 158, 57);"
+       id="text3356">skill</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-107,112)"
+       style="font-size: 68px; font-family: Impact; fill: rgb(231, 186, 82);"
+       id="text3358">google</text>
+    <text
+       text-anchor="middle"
+       transform="translate(226,-23)"
+       style="font-size: 66px; font-family: Impact; fill: rgb(231, 203, 148);"
+       id="text3360">mean</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-167,226)"
+       style="font-size: 66px; font-family: Impact; fill: rgb(132, 60, 57);"
+       id="text3362">statistician</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-322,119)"
+       style="font-size: 66px; font-family: Impact; fill: rgb(173, 73, 74);"
+       id="text3364">profile</text>
+    <text
+       text-anchor="middle"
+       transform="translate(260,42)"
+       style="font-size: 66px; font-family: Impact; fill: rgb(214, 97, 107);"
+       id="text3366">define</text>
+    <text
+       text-anchor="middle"
+       transform="translate(250,94)"
+       style="font-size: 64px; font-family: Impact; fill: rgb(123, 65, 115);"
+       id="text3368">team</text>
+    <text
+       text-anchor="middle"
+       transform="translate(5,-53)"
+       style="font-size: 64px; font-family: Impact; fill: rgb(165, 81, 148);"
+       id="text3370">product</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-142,-194)"
+       style="font-size: 61px; font-family: Impact; fill: rgb(222, 158, 214);"
+       id="text3372">hype</text>
+    <text
+       text-anchor="middle"
+       transform="translate(329,-84)"
+       style="font-size: 61px; font-family: Impact; fill: rgb(57, 59, 121);"
+       id="text3374">company</text>
+    <text
+       text-anchor="middle"
+       transform="translate(205,145)"
+       style="font-size: 61px; font-family: Impact; fill: rgb(82, 84, 163);"
+       id="text3376">student</text>
+    <text
+       text-anchor="middle"
+       transform="translate(22,-1)rotate(0)"
+       style="font-size: 61px; font-family: Impact; fill: rgb(206, 109, 189);"
+       id="text3378">academia</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-346,-15)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(206, 219, 156);"
+       id="text3380">figure</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-335,-70)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(132, 60, 57);"
+       id="text3382">doesnt</text>
+    <text
+       text-anchor="middle"
+       transform="translate(56,121)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(107, 110, 207);"
+       id="text3384">real</text>
+    <text
+       text-anchor="middle"
+       transform="translate(267,-184)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(181, 207, 107);"
+       id="text3386">example</text>
+    <text
+       text-anchor="middle"
+       transform="translate(188,193)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(99, 121, 57);"
+       id="text3388">visualization</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-39,-243)rotate(0)"
+       style="font-size: 59px; font-family: Impact; fill: rgb(140, 162, 82);"
+       id="text3390">sense</text>
+    <text
+       text-anchor="middle"
+       transform="translate(360,-132)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(189, 158, 57);"
+       id="text3392">course</text>
+    <text
+       text-anchor="middle"
+       transform="translate(226,-225)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(214, 97, 107);"
+       id="text3394">doe</text>
+    <text
+       text-anchor="middle"
+       transform="translate(188,239)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(132, 60, 57);"
+       id="text3396">thats</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-350,-125)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(173, 73, 74);"
+       id="text3398">learning</text>
+    <text
+       text-anchor="middle"
+       transform="translate(119,-253)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(231, 203, 148);"
+       id="text3400">stuff</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-331,-208)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(231, 150, 156);"
+       id="text3402">computer</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-285,168)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(231, 186, 82);"
+       id="text3404">tech</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-230,-252)rotate(0)"
+       style="font-size: 56px; font-family: Impact; fill: rgb(140, 109, 49);"
+       id="text3406">school</text>
+    <text
+       text-anchor="middle"
+       transform="translate(349,236)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(206, 109, 189);"
+       id="text3408">behavior</text>
+    <text
+       text-anchor="middle"
+       transform="translate(368,-245)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(231, 186, 82);"
+       id="text3410">process</text>
+    <text
+       text-anchor="middle"
+       transform="translate(360,-39)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(57, 59, 121);"
+       id="text3412">word</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-396,72)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(140, 109, 49);"
+       id="text3414">lot</text>
+    <text
+       text-anchor="middle"
+       transform="translate(377,147)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(140, 162, 82);"
+       id="text3416">online</text>
+    <text
+       text-anchor="middle"
+       transform="translate(46,231)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(231, 203, 148);"
+       id="text3418">term</text>
+    <text
+       text-anchor="middle"
+       transform="translate(386,81)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(181, 207, 107);"
+       id="text3420">solve</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-382,-165)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(222, 158, 214);"
+       id="text3422">look</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-398,243)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(123, 65, 115);"
+       id="text3424">book</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-370,-256)rotate(0)"
+       style="font-size: 52px; font-family: Impact; fill: rgb(82, 84, 163);"
+       id="text3426">class</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-177,-65)rotate(0)"
+       style="font-size: 48px; font-family: Impact; fill: rgb(123, 65, 115);"
+       id="text3430">time</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-399,161)rotate(0)"
+       style="font-size: 48px; font-family: Impact; fill: rgb(123, 65, 115);"
+       id="text3432">dont</text>
+    <text
+       text-anchor="middle"
+       transform="translate(392,36)rotate(0)"
+       style="font-size: 48px; font-family: Impact; fill: rgb(231, 150, 156);"
+       id="text3434">title</text>
+    <text
+       text-anchor="middle"
+       transform="translate(336,-6)rotate(0)"
+       style="font-size: 42px; font-family: Impact; fill: rgb(231, 203, 148);"
+       id="text3436">set</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-405,198)rotate(0)"
+       style="font-size: 42px; font-family: Impact; fill: rgb(231, 186, 82);"
+       id="text3438">refer</text>
+    <text
+       text-anchor="middle"
+       transform="translate(413,-187)rotate(0)"
+       style="font-size: 42px; font-family: Impact; fill: rgb(107, 110, 207);"
+       id="text3440">feel</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-274,-178)rotate(0)"
+       style="font-size: 42px; font-family: Impact; fill: rgb(222, 158, 214);"
+       id="text3442">gap</text>
+    <text
+       text-anchor="middle"
+       transform="translate(395,187)rotate(0)"
+       style="font-size: 42px; font-family: Impact; fill: rgb(57, 59, 121);"
+       id="text3444">fied</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-159,254)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(107, 110, 207);"
+       id="text3446">government</text>
+    <text
+       text-anchor="middle"
+       transform="translate(16,260)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(173, 73, 74);"
+       id="text3448">challenge</text>
+    <text
+       text-anchor="middle"
+       transform="translate(-274,256)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(214, 97, 107);"
+       id="text3450">life</text>
+    <text
+       text-anchor="middle"
+       transform="translate(152,265)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(214, 97, 107);"
+       id="text3452">finance</text>
+    <text
+       text-anchor="middle"
+       transform="translate(231,-274)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(222, 158, 214);"
+       id="text3456">ago</text>
+    <text
+       text-anchor="middle"
+       transform="translate(399,265)rotate(0)"
+       style="font-size: 35px; font-family: Impact; fill: rgb(57, 59, 121);"
+       id="text3458">start</text>
+  </g>
+</svg>
