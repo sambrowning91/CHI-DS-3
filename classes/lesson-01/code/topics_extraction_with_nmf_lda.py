@@ -27,7 +27,7 @@ print("done in %0.3fs." % (time() - t0))
 
 n_samples = len(dataset)
 n_features = 500
-n_topics = 3
+n_topics = 4
 n_top_words = 10
 
 
@@ -40,7 +40,7 @@ print("done in %0.3fs." % (time() - t0))
 
 print("Fitting LDA models with tf features, n_samples=%d and n_features=%d..."
       % (n_samples, n_features))
-lda = LatentDirichletAllocation(n_topics=n_topics, max_iter=5, learning_method='online', learning_offset=50., random_state=0)
+lda = LatentDirichletAllocation(n_topics=n_topics, max_iter=20, learning_method='online', learning_offset=50., random_state=0)
 t0 = time()
 lda.fit(tf)
 print("done in %0.3fs." % (time() - t0))
