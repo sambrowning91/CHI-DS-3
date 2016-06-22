@@ -2,7 +2,7 @@ from __future__ import print_function
 from time import time
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.decomposition import NMF, LatentDirichletAllocation
+from sklearn.decomposition import LatentDirichletAllocation
 import textclean
 
 def print_top_words(model, feature_names, n_top_words):
