@@ -37,7 +37,7 @@ Note: You'll be working with two scenarios in this project and one dataset.
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 3 | Project 1  | Research Design Write-Up   |
+| Lesson 4 | Project 1  | Research Design Write-Up   |
 
 ---
 
