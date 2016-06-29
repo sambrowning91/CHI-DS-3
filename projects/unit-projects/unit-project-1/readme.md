@@ -18,18 +18,17 @@ Note: You'll be working with two scenarios in this project and one dataset.
 #### Completed iPython Notebook
 
 - **Requirements:**
-    - Identify features of the dataset, including the outcome and covariates/predictors
+    - Identify features of the dataset, including the outcome and predictors
     - Create a data dictionary with classification of available variables
     - Write a high quality problem statement
-    - State the risks and assumptions of your data
+    - State the assumptions of your data (what is the distribution, what do you expect the mean to be, how variable are the data?)
     - Outline exploratory analysis methods
 
 - **Bonus:**
     - Practice writing an alternative problem statement for your dataset
-    - Articulate the risks and assumptions of this alternative model
 
 - **Submission:**
-    - Uploaded in a unit-project folder on your github account
+    - Uploaded ipython notebook in a unit-project folder on your github account
 
 ---
 
@@ -37,7 +36,7 @@ Note: You'll be working with two scenarios in this project and one dataset.
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 4 | Project 1  | Research Design Write-Up   |
+| Lesson 5 | Project 1  | Research Design Write-Up   |
 
 ---
 
@@ -80,7 +79,7 @@ For this project we will be using an iPython notebook. Notebooks are a handy way
 * Open the [starter code instructions](./starter-code/project1-starter.ipynb) in iPython notebook.
 
 #### Sample Deliverables 
-Check out the example notebook in our starter code, which includes a data dictionary and responses to questions. Wonder how to format your notebook the same way? Simply double-click on any section to view the markdown.
+Check out the example notebook in our starter code, which includes a data dictionary and responses to similar questions. Wonder how to format your notebook the same way? Simply double-click on any section to view the markdown.
 
 ![Example Notebook](./assets/images/Example_ipynb.jpg)
 
