@@ -20,7 +20,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Create a data dictionary with classification of available variables | | | | |
 | Correctly identify features of the dataset, including the outcome and covariates/predictors | | | | |
 | Write a high-quality problem statement | | | | |
-| State the risks and assumptions of your data | | | | |
+| State the assumptions of your data | | | | |
 | Outline exploratory analysis methods | | | | |
 
 Notes:
