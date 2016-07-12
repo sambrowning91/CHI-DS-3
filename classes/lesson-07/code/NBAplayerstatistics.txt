@@ -1,0 +1,72 @@
+Description
+NBA season 2009/2010 player statistics provided by
+dougstat.com
+
+Usage
+data(NBAPlayerStatistics0910)
+Format
+A data frame with 441 observations on the following 25 variables.
+League
+League, here just
+NBA
+Name
+Player name (either: last,first -or- last)
+Team
+Team name (3 letter abrev)
+Position
+Player’s position (
+PG
+,
+SG
+,
+SF
+,
+PF
+or
+C
+)
+GamesPlayed
+Games played
+TotalMinutesPlayed
+Total minutes played
+FieldGoalsMade
+Field foals made
+FieldGoalsAttempted
+Field goals attempted
+ThreesMade
+Threes made
+ThreesAttempted
+Threes attempted
+FreeThrowsMade
+Free throws made
+FreeThrowsAttempted
+Free throws attempted
+OffensiveRebounds
+Offensive rebounds
+TotalRebounds
+Total rebounds
+Assists
+Assists
+Steals
+Steals
+Turnovers
+Turnovers
+Blocks
+Blocks
+PersonalFouls
+Personal fouls
+Disqualifications
+Disqualifications
+TotalPoints
+Total points
+Technicals
+Technicals
+Ejections
+Ejections
+FlagrantFouls
+Flagrant fouls
+GamesStarted
+Games started
+
+
+
