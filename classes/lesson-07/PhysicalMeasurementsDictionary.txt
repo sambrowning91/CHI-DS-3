@@ -1,0 +1,15 @@
+Description
+
+For his MS305 data project, Michael Larner measured the weight and various physical measurements for 22 male subjects aged 16 - 30. Subjects were randomly chosen volunteers, all in reasonable good health. Subjects were requested to slightly tense each muscle being measured to ensure measurement consistency. Apart from Mass, all measurements are in cm.
+
+Variable		Description
+Mass		Weight in kg
+Fore		Maximum circumference of forearm
+Bicep		Maximum circumference of bicep
+Chest		Distance around chest directly under the armpits
+Neck		Distance around neck, approximately halfway up
+Waist		Distance around waist, approximately trouser line
+Thigh		Circumference of thigh, measured halfway between the knee and the top of the leg
+Calf		Maximum circumference of calf
+Height		Height from top to toe
+Shoulders		Distance around shoulders, measured around the peak of the shoulder blades
