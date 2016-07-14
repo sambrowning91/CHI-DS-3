@@ -17,7 +17,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
-| Explain three potential projects | | | | |
+| Explain up to three potential projects | | | | |
 | Each set should include a problem statement, a hypothesis, and potential data sets | | | | |
 | Be 2-3 minutes in duration | | | | |
 | Demonstrate familiarity with the domain of the data | | | | |
