@@ -16,22 +16,17 @@ In this assignment, you will explore and visualize your initial analysis in orde
 #### Exploratory Analysis Writeup
 
 - **Requirements:**
-   * Review the data set and project with an EIR during office hours.
    * Practice importing (potentially unformatted) data into clean matrices|data frames, and if necessary, export into a form that makes sense (text files or a database, for example).
    * Explore the mathematical properties and visualize data through a python visualization tool (matplotlib and seaborn)
    * Provide insight about the data set and any impact on a hypothesis.
 
 - **Detailed Breakdown:**
-   * A well organized iPython notebook with code and output
-   * At least one visual for each independent variable and, if possible, its relationship to your dependent variable.
+   * A well organized Jupyter notebook with code and output
+   * At least three visuals regarding your independent variable, if possible, its relationship to your dependent variable.
       * It's just as important to show what's not correlated as it is to show any actual correlations found.
       * Visuals should be well labeled and intuitive based on the data types.
         * For example, if your X variable is temperature and Y is "did it rain," a reasonable visual would be two histograms of temperature, one where it rained, and one where it didn't.
       * Tables are a perfectly valid visualization tool! Interweave them into your work.
-
-- **Bonus:**
-   - Surface and share your analysis online. Jupyter makes this very simple and the setup should not take long.
-   - Try experimenting with other visualization languages; python/pandas-highcharts, shiny/r, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
 
 - **Submission:**
    - On your github.
